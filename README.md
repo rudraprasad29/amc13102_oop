@@ -1,4 +1,4 @@
-# amc15101_algorithms
+# Object Oriented Programming
 <!--lint disable no-html-->
 
 ## Table of Contents
@@ -12,12 +12,12 @@
 
 ## Synopsis
 
-The course **AMC 15101 (Design and Analysis of  Algorithm)** is given at **IIT (ISM) Dhanbad** in Monsson 2019.
+The course **AMC 13102 (Object Oriented Programming)** is given at **IIT (ISM) Dhanbad** in Monsson 2019.
 
-*   **Course**: AMC 15101 (Design and Analysis of  Algorithm)
+*   **Course**: AMC 13102 (Object Oriented Programming)
 *   **Course lecturer**: [Ashish Bhatt][ashish-mail]
 *   **Schedule**: 
-*   **Textbook**: Introduction to Algorithms (3e), Thomas Cormen et.al., PHI
+*   **Textbook**: Learning Python (5e) by Mark Lutz, O'Reilly
 *   **Credit**: 3-0-0
 *   **Semester**: Monsoon 2019
 *   **Programme**: 5 year integrated M. Tech. (M&C)
@@ -25,22 +25,22 @@ The course **AMC 15101 (Design and Analysis of  Algorithm)** is given at **IIT (
 
 ## Description
 
-Preliminaries: Introduction to algorithms; Analyzing algorithms: space and time complexity; growth  of  functions;  summations;  recurrences;  sets,  etc.  Greedy  Algorithms:  General characteristics; Graphs: minimum spanning tree; The knapsack problem; scheduling. Divide and Conquer: Binary search; Sorting: sorting by merging, quickset. Dynamic Programming: Elements  of  dynamic  programming;  The  principle  of  optimality;  The  knapsack  problem; Shortest   paths;   Chained   matrix   multiplication.   Graph   Algorithms:   Depth-first   search; Breadth-first search; Backtracking; Branch-and-bound. Polynomials and FFT: Representation of polynomials; The DFT and FFT; Efficient FFT implementation. Heuristic and  Approximate  Algorithms:  Heuristic  algorithms;  Approximate  algorithms;  NP-hard approximation problems.
+Basic  concepts  of  OOPs;  C++  preliminaries,  Arrays; Functions;  Classes  and  Objects; Constructors   and   Destructors,   Function   overloading;   Operator   overloading   and   Type conversions;  Inheritance;  Pointers;  Polymorphisms, Console  oriented  I/O  operations,  File management, Templates; Exception Handling, Introduction to JAVA.
 
 ## Communication
 
-*   [GitHub][home]
+*   [GitHub](https://github.com/bhattah/amc13102_oop)
     — Main source of information and coding assignments submission
-*   [Piazza][piazza]
+*   [GitHub wiki](https://github.com/bhattah/amc13102_oop/wiki)
     — General chatter and Q&A
 
 ## Goals
 
 The 3 main goals in this course are:
 
-*   Learning various kinds of algorithms
-*   Analyzing their complexities
-*   Implementing them using python
+*   Learning basics of object oriented programming in python
+*   Learning classes and objects
+*   Programming in Python
 
 ## Grade
 
@@ -61,8 +61,6 @@ The 3 main goals in this course are:
     — [install](https://docs.anaconda.com/anaconda/install/linux/)
     — [Learn Python](https://www.codecademy.com/learn/learn-python)
 
-
-[home]: https://github.com/bhattah/amc15101_algorithms
 
 [ashish-mail]: mailto:ashishbhatt@iitism.ac.in?subject=AMC15101_Algorithims:%20
 

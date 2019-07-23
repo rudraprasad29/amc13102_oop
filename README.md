@@ -1,4 +1,4 @@
-# Object Oriented Programming
+# AMC 13102 (Object Oriented Programming)
 <!--lint disable no-html-->
 
 ## Table of Contents
@@ -67,5 +67,3 @@ The 3 main goals in this course are:
 [a1]: assessment-1
 
 [a2]: assessment-2
-
-[piazza]: piazza.com

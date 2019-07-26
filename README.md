@@ -1,23 +1,15 @@
 # AMC 13102 (Object Oriented Programming)
 <!--lint disable no-html-->
 
-## Table of Contents
-
-*   [Synopsis](#synopsis)
-*   [Description](#description)
-*   [Communication](#communication)
-*   [Goals](#goals)
-*   [Grade](#grade)
-*   [Materials](#materials)
-
 ## Synopsis
 
 The course **AMC 13102 (Object Oriented Programming)** is given at **IIT (ISM) Dhanbad** in Monsson 2019.
 
 *   **Course**: AMC 13102 (Object Oriented Programming)
 *   **Course lecturer**: [Ashish Bhatt][ashish-mail]
-*   **Schedule**: 
-*   **Textbook**: Learning Python (5e) by Mark Lutz, O'Reilly
+*   **Schedule**: W: 4:30-5:20, R: 2:30-3:20, F: 8-8:50 in OLHC 18 (AMC 13202 lab: T: 1:30-4:20 in MCUG)
+*   **Course Homepage**: https://github.com/bhattah/amc13102_oop
+*   **Textbook**: Data Structures and Algorithms in Python by Michael Goodrich
 *   **Credit**: 3-0-0
 *   **Semester**: Monsoon 2019
 *   **Programme**: 5 year integrated M. Tech. (M&C)
@@ -30,7 +22,7 @@ Basic  concepts  of  OOPs;  C++  preliminaries,  Arrays; Functions;  Classes  an
 ## Communication
 
 *   [GitHub](https://github.com/bhattah/amc13102_oop)
-    — Main source of information and coding assignments submission
+    — Course homepage and coding assignments submission
 *   [GitHub wiki](https://github.com/bhattah/amc13102_oop/wiki)
     — General chatter and Q&A
 
@@ -46,10 +38,9 @@ The 3 main goals in this course are:
 
 | Task                        | Weight |
 | --------------------------- | -----: |
-| [Assessment 1]              |    10% |
-| [Assessment 2]              |    10% |
+| [Quizzes and lab exam]      |    10% |
 | [Midsemester ]              |    30% |
-| [Endsemester ]              |    50% |
+| [Endsemester ]              |    60% |
 | **Total**                   |   100% |
 
 ## Materials
@@ -63,7 +54,3 @@ The 3 main goals in this course are:
 
 
 [ashish-mail]: mailto:ashishbhatt@iitism.ac.in?subject=AMC15101_Algorithims:%20
-
-[a1]: assessment-1
-
-[a2]: assessment-2

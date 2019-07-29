@@ -34,13 +34,24 @@ The 3 main goals in this course are:
 *   Learning classes and objects
 *   Programming in Python
 
-## Grade
+## Grades
+
+| Letter grade                | percentage of total marks|
+| --------------------------- | -----:   |
+| A+                          | top 10%  |
+| A                           | next 10% |
+| B+                          | next 20% |
+| B                           | next 20% |
+| C+                          | next 15% |
+| C                           | next 15% |
+| D                           | next 5%  |
+| F                           | next 5% |
 
 | Task                        | Weight |
 | --------------------------- | -----: |
-| [Quizzes and lab exam]      |    10% |
+| [Quizzes and assignments]   |    20% |
 | [Midsemester ]              |    30% |
-| [Endsemester ]              |    60% |
+| [Endsemester ]              |    50% |
 | **Total**                   |   100% |
 
 ## Materials

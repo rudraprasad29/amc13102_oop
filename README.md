@@ -44,8 +44,8 @@ The 3 main goals in this course are:
 | B                           | next 20% |
 | C+                          | next 15% |
 | C                           | next 15% |
-| D                           | next 5%  |
-| F                           | next 5% |
+| D                           | next 10% (non Fs)  |
+| F                           | total marks < 35% |
 
 | Task                        | Weight |
 | --------------------------- | -----: |
